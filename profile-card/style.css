@@ -1,0 +1,198 @@
+.attribution { font-size: 11px;
+position: absolute;
+bottom: 0px;
+text-align: center;
+left: 40%;
+ }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+ body{
+    background-color:hsl(185, 75%, 39%);
+    text-align: center;
+    font-family: "Kumbh Sans", sans-serif;
+ }
+ 
+ .top{
+    
+        position: absolute;
+        bottom: 40%;
+        right: 50%;
+        z-index: 1;
+        transform: rotate(30deg);   
+ }
+
+ .bottom {
+    position: absolute;
+    top: 50%;        
+    left: 50%;
+    z-index: 1;
+    transform: rotate(30deg);
+     
+ }
+
+ .card{
+    position: absolute;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 9%;
+    z-index: 3;
+    border-radius: 12px;
+    border-top-left-radius:12px ;
+    top: 3%;
+    left: 39%;
+    box-shadow: 0px 15px 50px 9px rgba(0, 0, 0, 0.22);
+ }
+
+ .card-top{
+    border-top-left-radius: 12px;
+    border-top-right-radius:12px;
+
+ }
+
+ .profile{
+    border-radius: 50%;
+    position: absolute;
+    top: 96px;
+    left: 127px;
+    border: 4px solid white;
+    
+ }
+ 
+ .card-info-top {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 85px;
+    display: inline;
+   
+}
+.card-info-top h1{
+    display: inline;
+    margin-top: auto;
+    position: relative;
+    color: #2d3248;
+    font-weight: 700;
+    font-size: 18px;
+    bottom: 10px; 
+    opacity: 85%; 
+}
+.cp{
+   
+    display: inline;
+    margin-top: 10px auto ;
+    position: relative;
+    bottom: 10px;
+    font-size: 20px;
+    left: 10px;
+    color:#969696;
+    font-family: 'Kumbh Sans',sans-serif;
+    opacity: 90%;
+  
+}
+.location{
+    color: #969696;
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+    opacity: 90%;
+    
+}
+
+.Followers{
+    position: absolute;
+    margin: auto;
+    top:81%;
+    left:17%;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Kumbh Sans',sans-serif;
+    opacity: 75%;
+
+  }
+  .Likes{
+    position: absolute;
+    margin: auto;
+    top:81%;
+    left:45%;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Kumbh Sans',sans-serif;
+    opacity: 75%;
+
+  }
+ .Photos{
+   position: absolute;
+   margin: auto;
+   top:81%;
+   left:73%;
+   font-size: 18px;
+   font-weight: 700;
+   font-family: 'Kumbh Sans',sans-serif;
+   opacity: 75%;
+
+ }
+.hr{
+
+  position: absolute;
+  top:50%;
+  width:100%;
+}
+.f-no{
+  position: absolute;
+  margin: auto;
+  top:88%;
+  left:15%;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+  opacity: 90%;
+}
+.l-no{
+  position: absolute;
+  margin: auto;
+  top:88%;
+  left:46%;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+  opacity: 90%;
+}
+.p-no{
+  position: absolute;
+  margin: auto;
+  top:88%;
+  left:74%;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+  opacity: 90%;
+}
+
+.attribution {
+    margin-top: auto;
+    font-size: 11px;
+    text-align: center;
+  }
+
+
+
+
+
+
+     
+     
+
+ 
+
+
+ 
+ 
